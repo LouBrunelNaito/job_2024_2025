@@ -1,0 +1,20 @@
+act. 1
+I] Rappels : symétrie axiale
+définition : point symétrique par rapport à une droite, figure symétrique par rapport à une droite
+construction du symétrique d'un point par rapport à une droite
+propriété : deux figures symétriques sont superposables
+act. 2
+II] Symétrie centrale
+définition : symétrique d'un point par rapport à un point
+construction du symétrique d'un point par rapport à un point
+définition : symétrique d'une figure par rapport à un point
+propriété : deux figures symétriques par rapport à un point se superposent lorsqu'on effectue un demi-tour autour de ce point
+Constructions exercices 
+DM : Ping et Pong
+act. 3
+III] Reconnaître un axe ou un centre de symétrie
+définition : axe de symétrie, centre de symétrie
+Reconnaître une symétrie exercices
+IV] Utiliser les propriétés de la symétrie centrale
+propriétés : conservation des alignements ; des longueurs ; des mesures des angles, des périmètres et des aires ; même chose pour la symétrie axiale
+Propriétés de la symétrie exercices
