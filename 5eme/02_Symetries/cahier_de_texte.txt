@@ -1,4 +1,5 @@
 act. 1
+Séquence 2 : Symétries
 I] Rappels : symétrie axiale
 définition : point symétrique par rapport à une droite, figure symétrique par rapport à une droite
 construction du symétrique d'un point par rapport à une droite
