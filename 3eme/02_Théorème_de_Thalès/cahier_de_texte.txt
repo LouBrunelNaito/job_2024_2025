@@ -6,3 +6,5 @@ définition triangle semblable
 méthode
 Triangles semblables exercices 1 à 3
 activité 4
+propriétés semblables équivalent à longueurs proportionnelles
+Triangles semblables exercices à partir de 4
