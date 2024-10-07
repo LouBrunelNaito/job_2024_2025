@@ -1,0 +1,4 @@
+Séquence 4 : Triangles
+I] Construire un triangle
+propriété construction d'un triangle (2 longueurs et 1 angle, 1 longueur et 2 angles)
+entraînement
