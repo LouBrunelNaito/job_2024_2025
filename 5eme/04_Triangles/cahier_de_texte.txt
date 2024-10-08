@@ -1,4 +1,21 @@
 Séquence 4 : Triangles
 I] Construire un triangle
 propriété construction d'un triangle (2 longueurs et 1 angle, 1 longueur et 2 angles)
-entraînement
+Constructions (exercice 1)
+propriété inégalité triangulaire
+Constructions (exercice 2)
+Inégalité triangulaire
+II] Hauteurs et médiatrices
+définition hauteur
+propriété trois hauteurs d'un triangle sont concourantes
+définition médiatrice
+propriété médiatrice d'un triangle
+méthode construction médiatrice
+définition propriété cercle circonscrit
+Médiatrices et hauteurs (sauf exercice 5)
+III] Triangles particuliers
+définitions triangle rectangle, isocèle, équilatéral
+Médiatrices et hauteurs (exercice 5)
+propriétés angles triangle isocèles
+propriétés triangle isocèle hauteur et médiatrice confondues
+Nature d’un triangle
