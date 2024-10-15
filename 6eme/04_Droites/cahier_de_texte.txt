@@ -1,0 +1,7 @@
+Séquence 4 : Droites
+I] Tracer des droites sécantes
+définitions points alignés, droite entre deux points distincts
+définitions droites sécantes, point d'intersection
+définitions droites perpendiculaires, angle droit
+Entraînement !
+définition distance entre un point et une droite
