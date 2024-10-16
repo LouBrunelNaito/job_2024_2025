@@ -4,4 +4,25 @@ définitions points alignés, droite entre deux points distincts
 définitions droites sécantes, point d'intersection
 définitions droites perpendiculaires, angle droit
 Entraînement !
+activité 1
 définition distance entre un point et une droite
+Entraînement !
+définition hauteur
+Entraînement !
+II] Tracer des droites parallèles
+définition droites parallèles
+activité 2
+Entraînement !
+3 propriétés sur les droites
+Démontrer exercices
+III] Construire des quadrilatères et des triangles particuliers
+définition parallélogramme
+Entraînement !
+activité 3
+définition rectangle
+propriété rectangle parallélogramme
+Entraînement !
+définition carré
+exercice
+propriété carré parallélogramme
+définition triangle rectangle
