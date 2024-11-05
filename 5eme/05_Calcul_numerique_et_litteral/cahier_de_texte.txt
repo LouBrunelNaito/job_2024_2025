@@ -1,0 +1,12 @@
+Séquence : Calcul numérique et littéral
+I] Enchainer des opérations
+convention - Calcul sans parenthèses
+Calculs sans parenthèses
+convention - Calcul avec parenthèses
+Calculs avec parenthèses
+définitions (rappel) somme, terme, différence, terme, produit, facteur, quotient, nature
+II] Ecrire et utiliser une expression littérale
+définition expression littérale
+exemples (formule, "en fonction de")
+Donner du sens
+méthode

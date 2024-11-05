@@ -1,0 +1,10 @@
+Séquence : Théorème de Pythagore
+définitions carré et racine carré d'un nombre
+I] Théorème
+théorème de Pythagore et égalité de Pythagore
+Calculer une longueur avec Pythagore
+Le martin pêcheur et le train le plus rapide du monde
+II] Sa réciproque
+réciproque du théorème de Pythagore
+méthode pour utiliser la réciproque et la contraposée du théorème de Pythagore
+Déterminer si un triangle est rectangle avec Pythagore

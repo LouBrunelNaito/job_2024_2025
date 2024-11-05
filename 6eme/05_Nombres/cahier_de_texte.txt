@@ -1,0 +1,21 @@
+Séquence : Nombres
+I] Additionner et soustraire avec des nombres décimaux
+propriété addition commutative
+remarque soustraction non commutative
+méthode poser une addition / soustraction de nombres décimaux
+méthode estimer un ordre de grandeur
+Calculer : Additionner et soustraire
+II] Multiplier avec des nombres décimaux
+propriété multiplication commutative
+propriété multiplication par 10, 100, 1000...
+méthode poser une multiplication
+Calculer : Multiplier
+III] Utiliser des priorités de calcul
+propriété priorité de multiplication sur addition/soustraction pour l'ordre, priorité des parenthèses
+méthode astuce de calcul
+Priorités opératoires
+IV] Additionner et multiplier avec des fractions
+propriété additionner deux fractions de même dénominateur
+propriété multiplier une fraction par un nombre entier
+propriété calculer une fraction d'une quantité
+remarque multiplier par 0,1 et par 0,5
