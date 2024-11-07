@@ -17,5 +17,7 @@ Priorités opératoires
 IV] Additionner et multiplier avec des fractions
 propriété additionner deux fractions de même dénominateur
 propriété multiplier une fraction par un nombre entier
+Opérations sur les fractions
 propriété calculer une fraction d'une quantité
 remarque multiplier par 0,1 et par 0,5
+Fractions problèmes

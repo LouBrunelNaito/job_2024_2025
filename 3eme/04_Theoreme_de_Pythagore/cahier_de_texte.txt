@@ -7,4 +7,5 @@ Le martin pêcheur et le train le plus rapide du monde
 II] Sa réciproque
 réciproque du théorème de Pythagore
 méthode pour utiliser la réciproque et la contraposée du théorème de Pythagore
-Déterminer si un triangle est rectangle avec Pythagore
+Vérifier si un triangle est rectangle
+Problèmes

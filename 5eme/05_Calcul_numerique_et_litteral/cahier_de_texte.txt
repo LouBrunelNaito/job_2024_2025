@@ -9,4 +9,18 @@ II] Ecrire et utiliser une expression littérale
 définition expression littérale
 exemples (formule, "en fonction de")
 Donner du sens
-méthode
+III] Simplifier une expression littérale
+convention pour supprimer le symbole x
+Simplifier l'écriture (1)
+définition écriture nombre au carré, au cube
+Simplifier l'écriture (8)
+propriété développement, factorisation
+Entraînement
+méthode utiliser des règles de simplification d'expressions littérales pour démontrer
+((Somme des n premiers entiers))
+III] Tester une égalité
+méthode utiliser une expression littérale avec certaines valeurs
+Substituer et calculer
+définitions égalité, égalité vraie
+propriété égalité vraie seulement pour certaines valeurs
+méthode tester si une égalité est vraie
