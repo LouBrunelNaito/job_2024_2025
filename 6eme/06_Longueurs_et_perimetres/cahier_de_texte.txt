@@ -1,0 +1,14 @@
+Séquence : Longueur et périmètre
+I] Comparer et mesurer des périmètres
+définition périmètre, unité de longueur
+méthode comparer des périmètres avec un compas
+Périmètres : Mesurer, reporter
+méthode conversion d'unités de longueur
+Périmètres et unité
+II] Calculer le périmètre d'un polygone
+propriété périmètre d'un polygone est égal à la somme des longueurs de ses côtés
+propriétés formule du périmètre d'un carré, formule du périmètre d'un rectangle
+III] Calculer la longueur d'un cercle
+propriété/définition longueur d'un cercle, circonférence, nombre pi
+remarque pi vaut environ 3,14
+Périmètres : problèmes
