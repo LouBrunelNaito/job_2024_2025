@@ -24,3 +24,4 @@ Substituer et calculer
 définitions égalité, égalité vraie
 propriété égalité vraie seulement pour certaines valeurs
 méthode tester si une égalité est vraie
+Tester une égalité
