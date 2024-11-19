@@ -1,0 +1,12 @@
+Séquence : Division
+I] Effectuer et utiliser une division euclidienne
+définitions division euclidienne, dividende, diviseur, quotient, reste, égalité de la division euclidienne
+remarques on ne peut pas diviser par 0, touche division euclidienne sur les calculatrices
+II] Déterminer des multiples et des diviseurs
+définitions divisible, diviseur, multiple
+définitions nombres pairs et impairs
+III] Utiliser des critères de divisibilité
+propriétés critères de divisibilité par 2, 3, 5, 9, 10
+IV] Effectuer et utiliser une division décimale
+définition division d'un nombre décimal par un nombre entier différent de 0
+propriété division par 10, 100, 1000
