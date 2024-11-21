@@ -5,8 +5,10 @@ remarques on ne peut pas diviser par 0, touche division euclidienne sur les calc
 II] Déterminer des multiples et des diviseurs
 définitions divisible, diviseur, multiple
 définitions nombres pairs et impairs
+Calculer : diviser
 III] Utiliser des critères de divisibilité
 propriétés critères de divisibilité par 2, 3, 5, 9, 10
+Calculer : critères de divisibilité
 IV] Effectuer et utiliser une division décimale
 définition division d'un nombre décimal par un nombre entier différent de 0
 propriété division par 10, 100, 1000
