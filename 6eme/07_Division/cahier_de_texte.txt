@@ -12,3 +12,5 @@ Calculer : critères de divisibilité
 IV] Effectuer et utiliser une division décimale
 définition division d'un nombre décimal par un nombre entier différent de 0
 propriété division par 10, 100, 1000
+exercice d'application
+Evolution des émissions de gaz à effet de serre en Chine
