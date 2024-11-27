@@ -1,0 +1,15 @@
+Séquence : Angles
+I] Connaître et utiliser la notion d'angle
+définition demi-droite
+définitions angle, sommet d'un angle, côtés d'un angle
+remarques code angle, notation d'un angle
+méthode comparer angles
+Comprendre la notion d'angle
+II] Mesurer
+méthode utilisation du rapporteur, degré
+définitions nul, aigu, droit, obtus, plat
+remarque coder deux angles de même mesure
+III] Construire un angle
+méthode construire un angle
+IV] Construire un triangle
+propriétés construire triangles deux côtés + angle, deux angles + côté
