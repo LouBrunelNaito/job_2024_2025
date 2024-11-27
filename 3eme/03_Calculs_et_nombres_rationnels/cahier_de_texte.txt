@@ -1,4 +1,4 @@
-Séquence 3 : Calculs et nombres rationnels
+Séquence : Calculs et nombres rationnels
 I] Calculer avec des nombres relatifs
 définition somme de nombres relatifs
 propriété différence de nombres relatifs
