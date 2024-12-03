@@ -7,10 +7,11 @@ méthode comparer angles
 Comprendre la notion d'angle
 II] Mesurer
 méthode utilisation du rapporteur, degré
-définitions nul, aigu, droit, obtus, plat
-remarque coder deux angles de même mesure
 site, vidéo et activité : permis rapporteur
 Mesurer un angle
+définitions nul, aigu, droit, obtus, plat
+remarque coder deux angles de même mesure
+Carte au trésor / Angle formé par les pales d'une éolienne
 III] Construire un angle
 méthode construire un angle
 IV] Construire un triangle
