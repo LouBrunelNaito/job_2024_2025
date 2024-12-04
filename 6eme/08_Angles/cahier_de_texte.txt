@@ -11,8 +11,13 @@ site, vidéo et activité : permis rapporteur
 Mesurer un angle
 définitions nul, aigu, droit, obtus, plat
 remarque coder deux angles de même mesure
-Carte au trésor / Angle formé par les pales d'une éolienne
+Angle formé par les pales d'une éolienne
 III] Construire un angle
 méthode construire un angle
+(Carte au trésor : TROP DUR)
+Activité 4 : Tour Pey Berland p.211
 IV] Construire un triangle
 propriétés construire triangles deux côtés + angle, deux angles + côté
+Application
+p.221 exercices de Construire un triangle
+Problèmes
