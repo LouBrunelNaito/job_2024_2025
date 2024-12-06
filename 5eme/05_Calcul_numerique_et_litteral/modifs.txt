@@ -1,1 +1,2 @@
 modifier fichier élèves et élèves adapt, il manque des choses
+pour l'évaluation, l'exercice 5 est incomplet en l'état

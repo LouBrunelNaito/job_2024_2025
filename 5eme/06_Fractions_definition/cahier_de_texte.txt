@@ -7,3 +7,14 @@ Différentes écritures (sauf 2,4)
 définition fraction décimale, nombre décimale
 remarque un quotient n'est pas toujours un nombre décimal
 Différentes écritures (2,4)
+II] Reconnaître des fractions égales
+propriété multiplier/diviser par un même nombre le numérateur et le dénominateur d'une fraction
+méthode simplifier une fraction
+Fractions égales
+Simplification de fractions
+III] Diviser par un nombre décimal
+méthode diviser par un nombre décimal
+Applications
+IV] Exprimer une proportion
+définition proportion
+remarque exprimer une proportion avec une écriture fractionnaire, décimale, pourcentage
