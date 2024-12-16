@@ -1,2 +1,17 @@
 Séquence : Calcul littéral
-I] 
+I] Simplifier une expression littérale
+convention supprimer le symbole de la multiplication
+propriété a-(b+c)=a-b-c
+méthodes démontrer que deux expressions littérales sont égales ou différentes
+Supprimer les parenthèses
+II] Développer un produit
+définitions somme, différence, termes, produit, facteurs, quotient
+définition développer
+propriété k(a+b)=ka+kb et k(a-b)=ka-kb
+Activité - identité remarquable
+propriété identité remarquable (a+b)(a-b)=a²-b²
+Développer
+III] Factoriser une somme ou une différence
+définition factoriser
+propriété ka+kb=k(a+b) et ka-kb=k(a-b)
+propriété identité remarquable a²-b²=(a-b)(a+b)
