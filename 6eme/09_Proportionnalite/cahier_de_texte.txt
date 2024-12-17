@@ -4,7 +4,11 @@ I] Reconnaître une situation de proportionnalité
 définitions grandeurs proportionnelles, coefficient de proportionnalité
 exemples une situation de proportionnalité / pas une situation ed proportionnalité
 Proportionnalité 1
-Classe Puzzle
+Classe Puzzle 1 : 
+	Expert 1 : Passage à l'unité/Coefficient de proportionnalité
+	Expert 2 : Addition de colonnes/ Linéarité additive
+	Expert 3 : Multiplications de colonnes/Linéarité multiplicative
+	Expert 4 : Savoir si un tableau est un tableau de proportionnalité
 II] Calculer une quatrième proportionnelle
 propriété calculer une quatrième proportionnelle
 méthode lien entre les colonnes
