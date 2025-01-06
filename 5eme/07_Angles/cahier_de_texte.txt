@@ -1,0 +1,6 @@
+Séquence : Angles
+activité 1
+I] Utiliser des angles alternes-internes
+définition angles alternes-internes
+remarque angle alternes, angles internes
+propriété droites parallèles => angles alternes-internes de même mesure
