@@ -3,4 +3,9 @@ activité 1
 I] Utiliser des angles alternes-internes
 définition angles alternes-internes
 remarque angle alternes, angles internes
+sur Geogebra - propriétés des angles alternes-internes
 propriété droites parallèles => angles alternes-internes de même mesure
+propriété réciproque angles alternes-internes de même mesure => droites parallèles
+exercices p.228
+II] Utiliser des angles correspondants
+définition angles correspondants
