@@ -1,0 +1,13 @@
+Séquence : Figures usuelles et aires
+I] Comparer et déterminer des aires
+définition aire d'une figure
+remarque aire différent de périmètre
+définition mètre carré
+remarque sur l'existence des hectares
+II] Calculer une aire avec une formule
+tableau de formules des aires de figures usuelles
+remarque pour utiliser une formule il faut que toutes les mesures soient exprimées dans la même unité ; pi vaut environ 3,14
+III] Calculer l’aire d’une figure complexe
+méthode 1 décomposer et additionner
+méthode 2 compléter et soustraire
+méthode 3 découper et déplacer
