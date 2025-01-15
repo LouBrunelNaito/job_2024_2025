@@ -9,3 +9,7 @@ propriété réciproque angles alternes-internes de même mesure => droites para
 exercices p.228
 II] Utiliser des angles correspondants
 définition angles correspondants
+
+III] Utiliser des angles opposés par le sommet
+définition opposés par le sommet
+propriété mesure d'angles opposés
