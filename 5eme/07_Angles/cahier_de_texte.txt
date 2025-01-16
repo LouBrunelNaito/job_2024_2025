@@ -9,7 +9,9 @@ propriété réciproque angles alternes-internes de même mesure => droites para
 exercices p.228
 II] Utiliser des angles correspondants
 définition angles correspondants
-
+propriété droites parallèles => angles correspondants de même mesure
+propriété réciproque angles correspondants de même mesure => droites parallèles
+remarque lien avec une propriété vue en sixième : deux droites perpendiculaires à une même droite sont parallèles entre elles
 III] Utiliser des angles opposés par le sommet
 définition opposés par le sommet
 propriété mesure d'angles opposés
