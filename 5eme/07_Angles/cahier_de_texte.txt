@@ -15,3 +15,6 @@ remarque lien avec une propriété vue en sixième : deux droites perpendiculair
 III] Utiliser des angles opposés par le sommet
 définition opposés par le sommet
 propriété mesure d'angles opposés
+IV] Déterminer la mesure d'un angle dans un triangle
+propriété la somme des angles d'un triangle est égale à 180°
+remarque à quoi sert cette propriété
