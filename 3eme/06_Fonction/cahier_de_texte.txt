@@ -1,0 +1,12 @@
+Séquence : Fonction
+I] Déterminer des images et des antécédents
+définition fonction
+notation f(x) et f:x\mapsto f(x)
+remarque différence entre f et f(x)
+définitions image, antécédent
+remarque un nombre n'a pas plusieurs images / un nombre peut avoir plusieurs antécédents / un nombre peut avoir aucun antécédent
+II] Tracer la représentation graphique d’une fonction
+définition représentation graphique / courbe représentative
+III] Exploiter la représentation graphique d’une fonction
+déterminer graphiquement l'image d'un nombre
+déterminer graphiquement le(s) potentiel(s) antécédent(s) d'un nombre
