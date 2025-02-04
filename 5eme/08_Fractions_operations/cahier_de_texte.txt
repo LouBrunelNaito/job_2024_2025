@@ -1,0 +1,4 @@
+Séquence : Fractions opérations
+I] Additionner et soustraire des fractions
+propriété additionner/soustraire des fractions ayant le même dénominateur
+méthode pour additionner/soustraire deux fractions qui n'ont pas le même dénominateur
