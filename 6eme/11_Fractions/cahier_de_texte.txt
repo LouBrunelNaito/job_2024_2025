@@ -8,4 +8,6 @@ méthode placer une fraction sur une demi-droite graduée
 II] Reconnaître des fractions égales
 méthode utiliser une demi-droite graduée
 propriété un quotient ne change pas si l’on multiplie ou si l’on divise son numérateur et son dénominateur par un même nombre non nul
-
+III] Comparer des fractions
+propriété comparer des fractions de même dénominateur revient à comparer leurs numérateurs
+propriété les fractions peuvent être encadrée par deux nombres entiers consécutifs
