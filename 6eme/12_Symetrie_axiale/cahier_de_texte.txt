@@ -1,0 +1,6 @@
+Séquence : Symétrie axiale
+I] Construire et utiliser la médiatrice d’un segment
+définition médiatrice d'un segment
+propriété points équidistants et médiatrice
+
+
