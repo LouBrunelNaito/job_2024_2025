@@ -207,7 +207,7 @@ sixiemeBCD = Classe('6BCD', [
 ]
 )
 
-sixiemeBCD.separer('A', 'Sebyl', 'W', 'Lea')
+'''sixiemeBCD.separer('A', 'Sebyl', 'W', 'Lea')
 sixiemeBCD.separer('A', 'Sebyl', 'A', 'Hafsa')
 sixiemeBCD.separer('A', 'Hafsa', 'W', 'Lea')
 sixiemeBCD.separer('A', 'Sebyl', 'B', 'Christenvie')
@@ -228,57 +228,50 @@ print(plan_6BCD.evaluation())
 while(plan_6BCD.evaluation() != 1.0):
     plan_6BCD.permutation_benef()
 
-plan_6BCD.montrer()
+plan_6BCD.montrer()'''
 
-### 2023/2024 5E
+### 5BCD
 
-cinqE = Classe('5E', [
-    Eleve('A', 'Sohann'),
-    Eleve('A', 'Lilian'),
-    Eleve('A', 'Malak'),
-    Eleve('B', 'Assia'),
-    Eleve('B', 'Nolan'),
-    Eleve('B', 'Milena'),
-    Eleve('B', 'Mathys'),
-    Eleve('C', 'Floriana'),
-    Eleve('C', 'Lola'),
-    Eleve('D', 'Meyson'),
-    Eleve('F', 'Leo'),
-    Eleve('G', 'Kylian'),
-    Eleve('G', 'Ilhan'),
-    Eleve('G', 'Lisa'),
-    Eleve('H', 'Leo'),
-    Eleve('K', 'Tiago'),
-    Eleve('L', 'Victoria'),
-    Eleve('M', 'Jihene'),
-    Eleve('M', 'Maelys'),
-    Eleve('M', 'Ana'),
-    Eleve('O', 'Luca'),
-    Eleve('P', 'Priscilia'),
-    Eleve('P', 'Camille'),
-    Eleve('R', 'Charlie'),
-    Eleve('R', 'Linh'),
-    Eleve('S', 'Louka'),
-    Eleve('Y', 'Gaia')
+cinquiemeBCD = Classe('5BCD', [
+    Eleve('A','Nathan'),
+    Eleve('A', 'Tasnime'),
+    Eleve('A', 'Jannat'),
+    Eleve('A', 'Varun'),
+    Eleve('A', 'Athithyan'),
+    Eleve('B', 'Esra'),
+    Eleve('C', 'Sinde'),
+    Eleve('F', 'Flavio'),
+    Eleve('H', 'Whitney'),
+    Eleve('H', 'Lea'),
+    Eleve('J', 'Theresa'),
+    Eleve('M', 'Martina'),
+    Eleve('M', 'Salma'),
+    Eleve('M', 'Zaki'),
+    Eleve('M', 'Mickael'),
+    Eleve('T', 'Youva'),
+    Eleve('T', 'Fatou'),
+    Eleve('Z', 'Zuhayr')
 ])
 
-cinqE.separer('G', 'Lisa', 'M', 'Jihene')
-cinqE.separer('K', 'Tiago', 'A', 'Lilian')
-cinqE.separer('C', 'Floriana', 'B', 'Assia')
-cinqE.separer('B', 'Mathys', 'A', 'Sohann')
-cinqE.rassembler('M', 'Ana', 'L', 'Victoria')
-cinqE.rassembler('R', 'Charlie', 'P', 'Priscilia')
-cinqE.mettre_derriere('G', 'Kylian')
-cinqE.mettre_derriere('B', 'Milena')
-cinqE.mettre_devant('K', 'Tiago')
+cinquiemeBCD.separer('B', 'Esra', 'H', 'Lea')
+cinquiemeBCD.separer('B', 'Esra', 'M', 'Salma')
+cinquiemeBCD.separer('H', 'Lea', 'M', 'Salma')
+cinquiemeBCD.separer('M', 'Martina', 'M', 'Mickael')
+cinquiemeBCD.separer('F', 'Flavio', 'A','Nathan')
+cinquiemeBCD.separer('F', 'Flavio', 'M', 'Zaki')
+cinquiemeBCD.separer('F', 'Flavio', 'T', 'Youva')
+cinquiemeBCD.separer('J', 'Theresa', 'A','Nathan')
+cinquiemeBCD.separer('A', 'Jannat', 'F', 'Flavio')
+cinquiemeBCD.separer('A', 'Jannat', 'M', 'Salma')
+cinquiemeBCD.mettre_devant('B', 'Esra')
 
-'''plan = Plan(cinqE, salle_les_pins)
+plan_5BCD = Plan(cinquiemeBCD, salle_B22)
 
-plan.montrer()
+plan_5BCD.montrer()
 
-print(plan.evaluation())
+print(plan_5BCD.evaluation())
 
-while(plan.evaluation() != 1.0):
-    plan.permutation_benef()
+while(plan_5BCD.evaluation() != 1.0):
+    plan_5BCD.permutation_benef()
 
-plan.montrer()'''
+plan_5BCD.montrer()
