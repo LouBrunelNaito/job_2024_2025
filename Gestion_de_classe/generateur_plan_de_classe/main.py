@@ -172,8 +172,6 @@ class Plan():
 ### SALLES
 
 salle_B22 = Salle('B22', 4, 6)
-salle_les_pins = Salle('Les Pins', 5, 6)
-salle_23 = Salle('23', 4, 8)
 
 ### 6F
 sixiemeF = Classe(
@@ -186,6 +184,46 @@ sixiemeF = Classe(
 
     ]
 )
+
+### 5E
+cinquiemeE = Classe('5E',[
+    Eleve('B', 'Ayoub'),
+    Eleve('B', 'Kenzy'),
+    Eleve('B', 'Djamila'),
+    Eleve('C', 'Guillaume'),
+    Eleve('C', 'Zainabe'),
+    Eleve('E', 'Youssef'),
+    Eleve('G', 'Mah'),
+    Eleve('H', 'Duy'),
+    Eleve('J', 'Therese'),
+    Eleve('M', 'Rabah'),
+    Eleve('M', 'Mefail'),
+    Eleve('S', 'Pavlo'),
+    Eleve('S', 'Jasmin'),
+    Eleve('Z', 'Dina')
+])
+
+cinquiemeE.separer('G', 'Mah', 'Z', 'Dina')
+cinquiemeE.separer('G', 'Mah', 'S', 'Jasmin')
+cinquiemeE.separer('G', 'Mah', 'B', 'Djamila')
+cinquiemeE.separer('S', 'Jasmin', 'Z', 'Dina')
+cinquiemeE.separer('Z', 'Dina', 'B', 'Djamila')
+cinquiemeE.separer('B', 'Djamila', 'S', 'Jasmin')
+cinquiemeE.mettre_seul('B', 'Kenzy')
+cinquiemeE.separer('E', 'Youssef', 'S', 'Pavlo')
+
+plan_5E = Plan(cinquiemeE, salle_B22)
+
+plan_5E.montrer()
+
+print(plan_5E.evaluation())
+
+while(plan_5E.evaluation() != 1.0):
+    plan_5E.permutation_benef()
+
+plan_5E.montrer()
+
+
 
 ### 6BCD4
 sixiemeBCD = Classe('6BCD', [
@@ -253,7 +291,7 @@ cinquiemeBCD = Classe('5BCD', [
     Eleve('Z', 'Zuhayr')
 ])
 
-cinquiemeBCD.separer('B', 'Esra', 'H', 'Lea')
+'''cinquiemeBCD.separer('B', 'Esra', 'H', 'Lea')
 cinquiemeBCD.separer('B', 'Esra', 'M', 'Salma')
 cinquiemeBCD.separer('H', 'Lea', 'M', 'Salma')
 cinquiemeBCD.separer('M', 'Martina', 'M', 'Mickael')
@@ -274,4 +312,4 @@ print(plan_5BCD.evaluation())
 while(plan_5BCD.evaluation() != 1.0):
     plan_5BCD.permutation_benef()
 
-plan_5BCD.montrer()
+plan_5BCD.montrer()'''
